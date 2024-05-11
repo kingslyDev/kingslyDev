@@ -34,7 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingslyDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kingslyDev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kingslyDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
