@@ -8,7 +8,7 @@
  [![](https://visitcount.itsvg.in/api?id=prabutama&label=Profile%20Views&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in) 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=%23fe116a)](https://instagram.com/prbtmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=%23087fb7)](www.linkedin.com/in/prabutama)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=%23fe116a)](https://instagram.com/ghalyabrarian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=%23087fb7)](https://www.linkedin.com/in/ghaly-abrarian-putra-a9b1021b4/)
 
 # 💻 Tech Stack:
 ### ♨️ Program Language
