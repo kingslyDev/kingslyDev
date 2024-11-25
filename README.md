@@ -5,13 +5,6 @@
 - 🧑‍💻 I’m interested in Web Development
 - 🤝 How to reach me ghalyallcoc@gmail.com
 
-<h1 align="center">Hi 👋, I'm Ghaly Abrarian Putra</h1>
-<h3 align="center">"I am someone who is interested in Web Development & Data Center Operations, and I come from Indonesia."</h3>
-
-# 💫 About Me :
-- 🧑‍💻 I’m interested in Web Development
-- 🤝 How to reach me ghalyallcoc@gmail.com
-
 [![](https://visitcount.itsvg.in/api?id=kingslyDev&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
