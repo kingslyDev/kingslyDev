@@ -5,7 +5,7 @@
 - 🧑‍💻 I’m interested in Web Development
 - 🤝 How to reach me ghalyallcoc@gmail.com
 
- [![]([![](https://visitcount.itsvg.in/api?id=kingslyDev&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in))](https://visitcount.itsvg.in) 
+ [[![]([![](https://visitcount.itsvg.in/api?id=kingslyDev&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in))](https://visitcount.itsvg.in) ]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=%23fe116a)](https://instagram.com/ghalyabrarian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=%23087fb7)](https://www.linkedin.com/in/ghaly-abrarian-putra-a9b1021b4/)
