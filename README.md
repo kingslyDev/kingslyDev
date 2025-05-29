@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghaly Abrarian Putra</h1>
-<h3 align="center">"I am someone who is interested in Web Development & Data Center Operations, and I come from Indonesia."</h3>
+<h3 align="center">"I am someone who is interested in Software Development & Site Reliability area, and I come from Indonesia."</h3>
 
 # 💫 About Me :
 - 🧑‍💻 I’m interested in Web Development
